@@ -8,4 +8,6 @@ A real-time digital clock built using **HTML, CSS, and JavaScript**.
 - 📱 Fully responsive.
 - 🕰️ 12-hour format (AM/PM).
 
-
+## 🚀 Live Demo  
+Check out the live version of this project:  
+🔗 [Digital Watch on Netlify](https://digitalwatchh.netlify.app/)
